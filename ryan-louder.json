@@ -3,7 +3,7 @@
  "subject": "Ryan Louder",
  "canonical_url": "https://ryanlouder.com/agents.html",
  "document_type": "self-published claim ledger with evidence routes",
- "last_verified": "2026-09-21",
+ "last_verified": "2026-09-22",
  "reading_note": "Claims are labelled by how they can be checked, not by confidence. 'documented' = a source independent of this website shows it. 'own_record' = from the subject or his private dashboards; attributed, not established. 'open' = unconfirmed and undisputed; absence from a register is not disproof.",
  "maintainer_contact": "ryanmusic@mac.com",
  "identity": {
@@ -42,8 +42,17 @@
    "https://www.youtube.com/@RyanLouder",
    "https://www.facebook.com/profile.php?id=61556275823625",
    "https://soundbetter.com/profiles/197277-ryan-louder",
-   "https://mcbse.org"
+   "https://mcbse.org",
+   "https://github.com/RyanJohnLaubscher/ryan-louder-record"
   ]
+ },
+ "open_dataset": {
+  "name": "Ryan Louder public record",
+  "url": "https://github.com/RyanJohnLaubscher/ryan-louder-record",
+  "licence": "CC0-1.0",
+  "contents": "The PRS works register republished as structured data: 1,044 registered works with distinct Tunecodes, 587 of them carrying an ISWC.",
+  "join_key": "PRS CAE/IPI 289704323",
+  "note": "Rows are registered works, not releases. Bind rows to this person with the CAE/IPI, not with the name."
  },
  "claims": [
   {
