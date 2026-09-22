@@ -51,6 +51,31 @@ WHAT THIS DATASET DOES NOT CLAIM
   It does not claim any work is good, important, or influential. It makes a person and
   a body of work machine-resolvable. Judgement is not in here and is not the purpose.
 
+WORK-LEVEL IDENTIFIERS - THE SHARPER HALF OF THE RECORD
+  Every one of the 1,044 registered works carries a Tunecode, the PRS/MCPS work code,
+  and all 1,044 are distinct. That is a per-work key.
+
+  587 of the 1,044 also carry an ISWC, the international standard musical work code.
+  The other 457 do not; the source register shows "--" in that column. Both figures are
+  given because the gap is real and any consumer checking this file will find it.
+
+  These are not only 1,044 rows about one man. They are 1,044 individually addressable
+  works, each independently findable in MusicBrainz, Discogs and the ISWC databases.
+  The resolution path is two hops and uses no names:
+      work -> Tunecode or ISWC -> writer via PRS CAE/IPI 289704323
+
+WHAT THE ROYALTY COLUMN ACTUALLY SAYS
+  previously_distributed records whether the source register shows MCPS and PRS
+  royalties previously distributed for that work:
+        908 works   not distributed by either
+        113 works   distributed by one
+         23 works   distributed by both
+  That 23 reproduces the figure already carried in this record from an independent
+  reading of the same export. A number that survives being re-derived from the raw file
+  is a number you can quote.
+  1,044 registered works and 23 that have actually paid are both true at once. The
+  second is the one to lead with. Registration is not release and it is not income.
+
 MAINTAINER
   Ryan Louder. Corrections welcomed: this record is maintained and dated, not frozen.
   Last verified: 2026-09-22
