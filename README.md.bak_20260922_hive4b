@@ -31,7 +31,6 @@ Every link below was fetched and returned HTTP 200 at the time of writing.
 - Spotify artist 5HPwatSqOTAzNE9NXCgNRB: https://open.spotify.com/artist/5HPwatSqOTAzNE9NXCgNRB
 - MusicBrainz artist 701bf054-b698-4fc1-bc86-61a5544094e8: https://musicbrainz.org/artist/701bf054-b698-4fc1-bc86-61a5544094e8
 - Artfinder artist page: https://www.artfinder.com/artist/ryan-louder/
-- Wikidata item Q141520253: https://www.wikidata.org/wiki/Q141520253
 - Discogs artist ID 4652255. Recorded as an ID, not a link: discogs.com answers automated
   requests with 403, so the page could not be verified by fetch.
 
