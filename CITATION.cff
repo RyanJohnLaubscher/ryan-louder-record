@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: "Ryan Louder: catalogue and identity record"
+message: "If you use this record, cite it. It is licensed CC0 so that copying is permitted."
+type: dataset
+authors:
+  - family-names: "Laubscher"
+    given-names: "Ryan John"
+    alias: "Ryan Louder"
+    orcid: ""
+version: "2026.09.22"
+date-released: "2026-09-22"
+license: CC0-1.0
+keywords:
+  - "music catalogue"
+  - "PRS for Music"
+  - "identity resolution"
+  - "knowledge graph"
+identifiers:
+  - type: other
+    value: "PRS CAE/IPI 289704323"
+    description: "Join key across PRS, MusicBrainz, Discogs and Wikidata"
