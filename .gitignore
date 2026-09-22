@@ -1,4 +1,7 @@
 __pycache__/
+*.bak
+*.bak_*
+backups/
 *.pyc
 gh_push.log
 *.log
